@@ -2,7 +2,7 @@
 The purpose of this project is to page that will randomly generate a secure password based on user prompts.
 
 Screenshots
-![Screen Shot 2023-06-28 at 2 44 33 PM](https://github.com/JeremyBlau/Module-two-assignment/assets/134236414/85b34816-7f83-4b47-9ff3-93c3716ff50f)
+<img width="845" alt="image" src="https://github.com/JeremyBlau/Module-three-assignment/assets/134236414/1d9f4bfd-aa40-4c75-b622-d48c0583f802">
 
 
 ## Deployment
@@ -11,8 +11,8 @@ The application is deployed and can be accessed through the following link: Depl
 ## Installation
 To install and run this project locally, follow these steps:
 
-Clone the repository: git clone https://github.com/JeremyBlau/Module-two-assignment.git
-Navigate to the project directory: Module-two-assignment
+Clone the repository: git clone https://github.com/JeremyBlau/Module-three-assignment.git
+Navigate to the project directory: Module-three-assignment
 Start the application
 
 ## Contributing
