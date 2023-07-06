@@ -6,7 +6,7 @@ Screenshots
 
 
 ## Deployment
-The application is deployed and can be accessed through the following link: Deployed Application
+The application is deployed and can be accessed through the following link: [Deployed Application](https://jeremyblau.github.io/Module-three-assignment/)
 
 ## Installation
 To install and run this project locally, follow these steps:
