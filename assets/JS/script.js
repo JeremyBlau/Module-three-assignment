@@ -2,7 +2,7 @@
 const lowercaseChars = "abcdefghijklmnopqrstuvwxyz";
 const uppercaseChars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 const numericChars = "0123456789";
-const specialChars = "!@#$%^&*()_+~`|}{[]:;?><,./-=";
+const specialChars = " !@#$%^&*()_+~`|}{[]:;?><,./-=";
 
 // Function to generate a password based on user criteria
 function generatePassword() {
